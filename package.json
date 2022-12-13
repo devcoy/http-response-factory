@@ -1,0 +1,32 @@
+{
+  "name": "http-response-factory",
+  "version": "1.0.0",
+  "description": "Build Http Response Object using Http Status Code description",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcoy/http-response-factory.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "http-response",
+    "status-code",
+    "status-codes",
+    "http-codes",
+    "response",
+    "nodejs",
+    "express"
+  ],
+  "author": "Jorge Cervantes <jcdev1825@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devcoy/http-response-factory/issues"
+  },
+  "homepage": "https://github.com/devcoy/http-response-factory#readme"
+}
