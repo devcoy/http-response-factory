@@ -1,0 +1,28 @@
+{
+  "name": "http-response-factory",
+  "version": "0.1.0",
+  "description": "Build Http Response Object using Http Status Code description.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcoy/http-response-factory.git"
+  },
+  "keywords": [
+    "http",
+    "http-response",
+    "status-code",
+    "response",
+    "nodejs",
+    "express",
+    "rfc-2616"
+  ],
+  "author": "Jorge Cervantes <jcdev1825@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcoy/http-response-factory/issues"
+  },
+  "homepage": "https://github.com/devcoy/http-response-factory#readme"
+}
